@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197519269759",
+    "project_id": "say-sense",
+    "storage_bucket": "say-sense.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197519269759:android:1664ef7be896efbddac44a",
+        "android_client_info": {
+          "package_name": "com.example.sense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMxEoJFFZOYvt_y6R2jQvYIq5-xQuwWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
